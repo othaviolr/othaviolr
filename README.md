@@ -3,10 +3,11 @@
 ## Tecnologias que eu uso no meu dia a dia
 
 <div style="display: inline_block">
-  <img align="center" alt="c#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img align="center" alt="azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img align="center" alt="MMSQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
-  <img align="center" alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs, azure, mysql, postman" />
+  </a>
+</p>
 </div><br/>
 
 ### Estou estudando no momento:
