@@ -18,4 +18,4 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div><br/>
   
-💻 Estudante de ADS e recém estagiário.
+💻 Estudante de Análise e Desenvolvimento de Sistemas, focado em desenvolvimento backend e testes de software. Atualmente, atuando como estagiário na área de qualidade de software.
