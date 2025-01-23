@@ -15,7 +15,7 @@
 <div style="display: inline_block">
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,mongodb,git,js" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,mongodb,git,js&theme=light" />
   </a>
 </p>
 </div><br/>
