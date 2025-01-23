@@ -5,7 +5,7 @@
 <div style="display: inline_block">
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,azure,mysql,postman&theme=light" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,mysql,postman&theme=light" />
   </a>
 </p>
 </div>
