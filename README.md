@@ -3,7 +3,7 @@
 ## Tecnologias que eu uso no meu dia a dia
 
 <div style="display: inline_block">
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,azure,mysql,postman" />
   </a>
