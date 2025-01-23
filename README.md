@@ -8,7 +8,7 @@
     <img src="https://skillicons.dev/icons?i=cs,azure,mysql,postman&theme=light" />
   </a>
 </p>
-</div><br/>
+</div>
 
 ### Estou estudando no momento:
 
