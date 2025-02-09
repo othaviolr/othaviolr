@@ -11,7 +11,6 @@
 </div>
 
 ### Estou estudando no momento:
-
 <div style="display: inline_block">
 <p align="left">
   <a href="https://skillicons.dev">
