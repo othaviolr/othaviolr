@@ -1,6 +1,23 @@
 # Olá eu sou o Othávio! 👋
 
-https://github-readme-stats.vercel.app/api?username=othaviolr=&show_icons=true
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=othaviolr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=othaviolr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
+
 
 
 ## Tecnologias que eu uso no meu dia a dia
