@@ -1,6 +1,6 @@
 # Olá eu sou o Othávio! 👋
 
-https://github-readme-stats.vercel.app/api?othaviolr=anuraghazra&show_icons=true
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?othaviolr=anuraghazra&show_icons=true)
 
 
 ## Tecnologias que eu uso no meu dia a dia
