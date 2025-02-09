@@ -23,11 +23,10 @@
 
 📫 Como chegar até mim othavionogueira2003@gmail.com
 
-<img 
-      align="center" 
+<div align="center">
+  <img 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=othaviolr&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
-</p>
+</div>
