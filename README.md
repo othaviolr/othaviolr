@@ -21,7 +21,7 @@
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas, focado em desenvolvimento backend e testes de software. Atualmente, atuando como estagiário na área de desenvolvimento de software.
 
-📫 Como chegar até mim othavionogueira2003@gmail.com
+📫 Como chegar até mim! othavionogueira2003@gmail.com
 
 <div align="center">
   <img 
