@@ -1,6 +1,6 @@
 # Olá eu sou o Othávio! 👋
 
-## Tecnologias que eu uso no meu dia a dia
+## Tecnologias que eu uso diariamente em meu dia a dia!
 
 <div style="display: inline_block">
 <p align="left">
