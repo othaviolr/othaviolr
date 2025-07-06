@@ -5,7 +5,7 @@
 <div style="display: inline_block">
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,mysql,postman&theme=light" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,mysql&theme=light" />
   </a>
 </p>
 </div>
@@ -14,7 +14,7 @@
 <div style="display: inline_block">
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,mongodb,git,js&theme=light" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,mongodb,git,java,rabbitmq,docker&theme=light" />
   </a>
 </p>
 </div><br/>
