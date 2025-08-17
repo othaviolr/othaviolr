@@ -19,7 +19,7 @@
 </p>
 </div><br/>
 
-💻 Estudante de Análise e Desenvolvimento de Sistemas, focado em desenvolvimento backend. Atualmente, atuando como estagiário na área de desenvolvimento de software.
+💻 Desenvolvedor Back-End .NET | C# | SQLServer.
 
 📫 Como chegar até mim! othavionogueira2003@gmail.com
 
