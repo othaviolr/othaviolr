@@ -14,7 +14,7 @@
 <div style="display: inline_block">
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,spring,java,rabbitmq,docker" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,java,spring,rabbitmq,docker" />
   </a>
 </p>
 </div><br/>
