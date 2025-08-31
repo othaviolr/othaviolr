@@ -19,7 +19,7 @@
 </p>
 </div><br/>
 
-💻 Desenvolvedor Back-End .NET | C# | SQLServer.
+💻 Desenvolvedor Back-End .NET | C# | Java | PostgreSQL | SQLServer
 
 📫 Como chegar até mim! othavionogueira2003@gmail.com
 
