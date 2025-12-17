@@ -5,7 +5,7 @@
 <div style="display: inline_block">
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,aws,azure" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,sqlserver,aws,azure" />
   </a>
 </p>
 </div>
@@ -19,7 +19,7 @@
 </p>
 </div><br/>
 
-💻 Desenvolvedor Back-End .NET | C# | Java | PostgreSQL | SQLServer.
+💻 Desenvolvedor Back-End .NET | C# | Java | Spring Boot | PostgreSQL | SQLServer.
 
 📫 Como chegar até mim! othavionogueira2003@gmail.com
 
