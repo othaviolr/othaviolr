@@ -19,7 +19,7 @@
 </p>
 </div><br/>
 
-💻 Desenvolvedor Back-End .NET | C# | Java | Spring Boot | PostgreSQL | SQLServer.
+💻 Desenvolvedor Back-End | Java | Spring Boot | .NET | C# | PostgreSQL.
 
 📫 Como chegar até mim! othavionogueira2003@gmail.com
 
