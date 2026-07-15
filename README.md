@@ -1,16 +1,6 @@
 # Olá eu sou o Othávio! 👋
 
 ## Tecnologias que estudo e uso diariamente no meu dia a dia!
-
-<div style="display: inline_block">
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,aws,azure" />
-  </a>
-</p>
-</div>
-
-### Estou estudando no momento:
 <div style="display: inline_block">
 <p align="left">
   <a href="https://skillicons.dev">
