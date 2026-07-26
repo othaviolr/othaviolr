@@ -13,11 +13,6 @@
 
 📫 Como chegar até mim! othavionogueira2003@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/v1?username=othaviolr)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/v1?username=othaviolr&hide=contribs,prs)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/v1?username=othaviolr&count_private=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/v1?username=othaviolr&show_icons=true)
-
 <div align="center">
   <img 
       alt="GitHub Stats" 
