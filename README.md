@@ -13,10 +13,10 @@
 
 📫 Como chegar até mim! othavionogueira2003@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=othaviolr)](https://github.com/othaviolr/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=othaviolr&hide=contribs,prs)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=othaviolr&count_private=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=othaviolr&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/v1?username=othaviolr)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/v1?username=othaviolr&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/v1?username=othaviolr&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/v1?username=othaviolr&show_icons=true)
 
 <div align="center">
   <img 
@@ -24,4 +24,4 @@
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=othaviolr&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-  </div>
+</div>
