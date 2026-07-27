@@ -13,4 +13,6 @@
 
 📫 Como chegar até mim! othavionogueira2003@gmail.com
 
-[![My GitFut card](https://gitfut.com/othaviolr.png)](https://gitfut.com/othaviolr)
+<a href="https://gitfut.com/othaviolr">
+  <img src="https://gitfut.com/othaviolr" alt="My GitFut card" width="400">
+</a>
