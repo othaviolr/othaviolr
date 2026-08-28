@@ -9,12 +9,6 @@
 </p>
 </div><br/>
 
-💻 Desenvolvedor Back-End | Java | Spring Boot | .NET | C# | PostgreSQL.
+💻 Backend Software Engineer | Java | Spring Boot | PostgreSQL | AWS | RabbitMQ.
 
 📫 Como chegar até mim! othavionogueira2003@gmail.com
-
-<p align="center">
-  <a href="https://gitfut.com/othaviolr">
-    <img src="https://gitfut.com/othaviolr.png" alt="My GitFut card" width="400">
-  </a>
-</p>
