@@ -11,4 +11,4 @@
 
 💻 Backend Software Engineer | Java | Spring Boot | PostgreSQL | AWS | RabbitMQ.
 
-📫 Como chegar até mim! othavionogueira2003@gmail.com
+📫 Como chegar em mim! othavionogueira2003@gmail.com
