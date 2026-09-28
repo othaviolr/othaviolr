@@ -17,7 +17,6 @@
   </a>
 </p>
 </div><br/>
-
 💻 Backend Software Engineer | Java | Spring Boot | PostgreSQL | AWS | RabbitMQ.
 
 📫 Como chegar em mim! othavionogueira2003@gmail.com
