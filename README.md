@@ -4,7 +4,7 @@
 <div style="display: inline_block">
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,dotnet,cs,postgres,rabbitmq,docker" />
+    <img src="https://skillicons.dev/icons?i=java,spring,dotnet,cs,postgres,rabbitmq,docker,kafka" />
   </a>
 </p>
 </div><br/>
