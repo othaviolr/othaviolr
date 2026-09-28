@@ -16,7 +16,7 @@
     <img src="https://skillicons.dev/icons?i=aws,azure,rabbitmq,docker,kafka,redis,kubernetes" />
   </a>
 </p>
-</div><br/>
+</div>
 💻 Backend Software Engineer | Java | Spring Boot | PostgreSQL | AWS | RabbitMQ.
 
 📫 Como chegar em mim! othavionogueira2003@gmail.com
