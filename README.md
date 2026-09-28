@@ -1,10 +1,19 @@
 # Olá eu sou o Othávio! 👋
 
 ## Tecnologias que estudo e uso diariamente no meu dia a dia!
+
 <div style="display: inline_block">
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,dotnet,cs,postgres,aws,azure,rabbitmq,docker,kafka,redis,kubernetes" />
+    <img src="https://skillicons.dev/icons?i=java,spring,dotnet,cs,postgres" />
+  </a>
+</p>
+</div>
+
+<div style="display: inline_block">
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,rabbitmq,docker,kafka,redis,kubernetes" />
   </a>
 </p>
 </div><br/>
