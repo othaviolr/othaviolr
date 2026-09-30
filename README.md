@@ -20,3 +20,8 @@
 💻 Backend Software Engineer | Java | Spring Boot | PostgreSQL | AWS | RabbitMQ.
 
 📫 Como chegar em mim! othavionogueira2003@gmail.com
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=othaviolr)
+![Visitors](https://github-visitor-counter-tau.vercel.app/api?username=othaviolr)
+![Visitors](https://ghvc.kabelkultur.se?username=othaviolr&style=flat-square&color=green)
+![Visitors](https://hits.sh/othaviolr.svg)
