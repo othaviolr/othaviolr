@@ -21,12 +21,4 @@
 
 📫 Como chegar em mim! othavionogueira2003@gmail.com
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=othaviolr.othaviolr)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=othaviolr.othaviolr&left_text=Visitors&left_color=black&right_color=blue)
-
-![Visitors](https://hits.sh/othaviolr.svg)
-![Visitors](https://hits.sh/othaviolr.svg?style=flat-square&color=blue&label=Visitors)
-
-![Visitors](https://github-visitor-counter-tau.vercel.app/api?username=othaviolr)
-
-![Visitors](https://ghvc.kabelkultur.se?username=othaviolr&style=flat-square&color=green)
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fothaviolr%2Fothaviolr&label=VISITORS&labelColor=%23000&countColor=%230A0209" alt="VISITORS" />
