@@ -1,5 +1,7 @@
 # Olá eu sou o Othávio! 👋
 
+![VISITORS](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fothaviolr%2Fothaviolr&label=VISITORS&labelColor=%23000&countColor=%230A0209)
+
 ## Tecnologias que estudo e uso diariamente no meu dia a dia!
 
 <div style="display: inline_block">
@@ -20,6 +22,3 @@
 💻 Backend Software Engineer | Java | Spring Boot | PostgreSQL | AWS | RabbitMQ.
 
 📫 Como chegar em mim! othavionogueira2003@gmail.com
-<br>
-<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fothaviolr%2Fothaviolr&label=VISITORS&labelColor=%23000&countColor=%230A0209" alt="VISITORS" />
-</br>
